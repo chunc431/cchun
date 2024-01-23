@@ -207,12 +207,12 @@ body.main-container::-webkit-scrollbar-thumb:hover {
 
 @media (max-width: 1300px) {
     .body {
-        margin: 1rem;
+        margin: 0.9rem;
 		margin-left: 2vw;
         margin-right: 2vw;
     }
 	.about {
-		font-size: 1.1rem;
+		font-size: 1rem;
 		margin-left: 4vw;
 		margin-right: 4vw;
 	}
