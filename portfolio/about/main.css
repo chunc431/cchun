@@ -223,7 +223,11 @@ body.main-container::-webkit-scrollbar-thumb:hover {
 }
 
 @media (max-width: 570px) {
-    .left-header {
+    .main {
+		padding-top: 60px; 
+	  }  
+	  
+	.left-header {
 		font-size: 1rem;
 	}
 
