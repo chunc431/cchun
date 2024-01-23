@@ -224,7 +224,7 @@ body.main-container::-webkit-scrollbar-thumb:hover {
 
 @media (max-width: 570px) {
     .main {
-		padding-top: 60px; 
+		padding-top: 10px; 
 	  }  
 	  
 	.left-header {
