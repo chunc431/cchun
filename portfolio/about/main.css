@@ -227,7 +227,7 @@ body.main-container::-webkit-scrollbar-thumb:hover {
 	}
 
 	.profile-img img {
-		max-width: 40%; 
+		max-width: 35%; 
 		margin: 1vh auto 0; 
 	  }  
 
